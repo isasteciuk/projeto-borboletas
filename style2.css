@@ -1,0 +1,71 @@
+header
+{background:#FFDAB9;
+padding: 20px 0;
+}
+
+.fases
+{width: 35%}
+
+.caixa {
+  position: relative;
+  width:940px;
+  margin: 0 auto;
+}
+
+nav
+{position:absolute;
+top:110px;
+right:0}
+
+nav li
+{display: inline;
+margin: 0 0 0 15px}
+
+nav a
+{ text-transform:uppercase;
+  color:#000000;
+font-weight:bold;
+font-size: 22px;
+text-decoration: none}
+
+.produtos
+{width: 940px;
+margin: 0 auto;
+padding: 50px 0}
+
+.imagensprodutos1
+{width: 95%}
+
+.imagensprodutos2
+{width: 60%}
+
+.imagensprodutos3
+{width: 110%}
+
+.produtos li
+{display: inline-block;
+text-align: center;
+width: 30%;
+vertical-align: top;
+margin: 0 1.5%;
+padding: 50px 0px}
+
+.produtos
+{width: 940px;
+margin: 0 auto;
+padding: 50px 0}
+
+.imagensprodutos
+{width: 50%}
+
+.produtos li
+{display: inline-block;
+text-align: center;
+width: 30%;
+vertical-align: top;
+margin: 0 1.5%;
+padding: 50px 0px}
+
+.vídeosciclos
+{text-align: center;
+font-size: 35px}
